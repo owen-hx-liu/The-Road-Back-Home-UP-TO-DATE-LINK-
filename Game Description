@@ -1,0 +1,44 @@
+DEVELOPERS: OWEN LIU and JATHON CHEN
+
+2024 FBLA Regional Champions 
+2025 FBLA State Runner-up
+2025 FBLA National Finalist (Top 15)
+
+This year, we are working on a new game called Career-Realms, the Shifter's Path. Please support us by checking out our game and following our new instagram.
+So far we have already won the regional conference and are preparing for the state and national competitions.
+Thank you so much for your support!
+
+Instagram: @theroadbackhomeofficial
+
+The Road Back Home - RPG Game
+
+The Road Back Home is an appealing RPG-Adventure in which you play the role of Alex-a determined traveler who must make it home in time for Thanksgiving dinner. It becomes more interesting when Alex's car crashes into a tree, and some critical parts disappear. Now, to recover them, you have to explore this mysterious forest, talk with villagers, and successfully solve your quests to piece your car back together.
+
+
+
+IMPORTANT, READ BEFORE RUNNING:
+
+You MUST have a Java runtime machine (version 17+) in order to run the game.
+
+If when opening, prevented due to Apple not checking for malware:
+
+MacOS:
+
+After attempting to open the .jar file and seeing the warning message, go to System Settings (or System Preferences in older macOS versions).
+Click on Privacy & Security in the sidebar.
+Scroll down to the Security section.
+Look for the message indicating that the app was blocked.
+Click Open Anyway and enter your login password to confirm. This will save the app as an exception, allowing you to open it by double-clicking in the future. 
+WindowOS:
+
+To address security warnings, especially for web-based applets, you can add the website location to the Exception Site List in the Java Control Panel. Another option, though not recommended due to increased vulnerability, is to lower the security level in the Java Control Panel from High to Medium. Keep in mind that recent Java versions may block unsigned JARs by default, and while adding them to the Exception Site List can allow them to run, you will still get warnings. 
+
+
+
+Update Log:
+
+ V1- Original game which included 3 quests, inventory, options menu, and more! 
+
+V2- Fixed path issues and issues displaying all graphics. Added new custom font for text.
+
+V3- Complete Graphic fix/overhaul, new cave quest, multiplayer mode, custom music, and more!
